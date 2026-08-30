@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "app/api/process/route": {
+      "maxDuration": 120
+    }
+  }
+}
